@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:armorer_dungeon \"盔甲匠的请求\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/loot give @p loot minecraft:armorer1",
       "id": "quest_giver:command"
     },

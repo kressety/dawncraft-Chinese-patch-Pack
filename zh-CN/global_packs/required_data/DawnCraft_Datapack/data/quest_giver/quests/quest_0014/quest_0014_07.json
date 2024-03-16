@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:sentinel_tree \"主线任务 - 守卫之树\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/loot give @p loot minecraft:guildmaster5",
       "id": "quest_giver:command"
     },

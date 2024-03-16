@@ -29,6 +29,10 @@
   ],
   "rewards": [
     {
+      "command": "/dc addWaypoint @p custom:ogre_dwelling \"主线任务 - 饥饿食人魔的栖息地\"",
+      "id": "quest_giver:command"
+    },
+    {
       "command": "/loot give @p loot minecraft:guildmaster1",
       "id": "quest_giver:command"
     },
