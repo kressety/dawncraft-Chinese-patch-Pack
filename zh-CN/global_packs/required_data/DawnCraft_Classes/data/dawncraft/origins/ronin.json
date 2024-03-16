@@ -1,9 +1,5 @@
 {
-  "powers": [
-    "dawncraft:roll",
-    "dawncraft:guard",
-    "dawncraft:pain_retribution"
-  ],
+  "powers": ["dawncraft:roll", "dawncraft:guard", "dawncraft:pain_retribution"],
   "icon": {
     "item": "epicfight:uchigatana"
   },

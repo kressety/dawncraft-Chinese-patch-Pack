@@ -1,8 +1,5 @@
 {
-  "powers": [
-    "dawncraft:roll",
-    "dawncraft:hypervitality"
-  ],
+  "powers": ["dawncraft:roll", "dawncraft:hypervitality"],
   "icon": {
     "item": "epicfight:glove"
   },

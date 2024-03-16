@@ -1,7 +1,5 @@
 {
-  "powers": [
-    "dawncraft:ender_step"
-  ],
+  "powers": ["dawncraft:ender_step"],
   "icon": {
     "item": "biomemakeover:witch_hat"
   },

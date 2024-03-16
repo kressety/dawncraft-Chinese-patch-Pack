@@ -1,8 +1,5 @@
 {
-  "powers": [
-    "dawncraft:roll",
-    "dawncraft:endurance"
-  ],
+  "powers": ["dawncraft:roll", "dawncraft:endurance"],
   "icon": {
     "item": "magistuarmory:jousting_chestplate"
   },

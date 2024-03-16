@@ -1,7 +1,5 @@
 {
-  "powers": [
-    "dawncraft:warrior"
-  ],
+  "powers": ["dawncraft:warrior"],
   "icon": {
     "item": "minecraft:iron_sword"
   },

@@ -1,8 +1,5 @@
 {
-  "powers": [
-    "dawncraft:roll",
-    "dawncraft:emergency_escape"
-  ],
+  "powers": ["dawncraft:roll", "dawncraft:emergency_escape"],
   "icon": {
     "item": "alexsmobs:roadrunner_boots"
   },

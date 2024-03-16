@@ -1,8 +1,5 @@
 {
-  "powers": [
-    "dawncraft:step",
-    "dawncraft:revelation"
-  ],
+  "powers": ["dawncraft:step", "dawncraft:revelation"],
   "icon": {
     "item": "scattered_weapons:fortunespear"
   },
